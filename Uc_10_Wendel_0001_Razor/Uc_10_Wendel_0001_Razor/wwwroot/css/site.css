@@ -1,0 +1,151 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width:768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #111;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ================= NAV ================= */
+
+.navbar {
+    background: #1b1b1b !important;
+}
+
+.navbar-brand {
+    color: #e63946 !important;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: white !important;
+    transition: .3s;
+}
+
+    .nav-link:hover {
+        color: #e63946 !important;
+    }
+
+/* ================= PÁGINAS ================= */
+
+.text-center,
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: #e63946;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.7;
+    margin-bottom: 20px;
+}
+
+ul {
+    width: 300px;
+    margin: auto;
+}
+
+/* ================= IMAGENS ================= */
+
+img {
+    display: block;
+    margin: 30px auto;
+    max-width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,.4);
+}
+
+/* ================= BOTÃO ================= */
+
+.botao-video {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 12px 24px;
+    background: #e63946;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: .3s;
+}
+
+    .botao-video:hover {
+        background: #b71c1c;
+        transform: translateY(-2px);
+    }
+
+/* ================= CAIXAS ================= */
+
+h1,p, li,
+.container p:first-of-type {
+    text-align: center;
+}
+
+section,
+article {
+    background: #1d1d1d;
+    padding: 30px;
+    border-radius: 12px;
+    margin: 30px 0;
+}
+
+/* ================= FOOTER ================= */
+
+footer {
+    background: #1b1b1b;
+    color: #ccc;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+/* ================= RESPONSIVO ================= */
+
+@media(max-width:768px) {
+
+    body {
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    .botao-video {
+        width: 100%;
+        text-align: center;
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Uc_10_Wendel_00010_Navegabilidade/1.0.0": {
+        "runtime": {
+          "Uc_10_Wendel_00010_Navegabilidade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uc_10_Wendel_00010_Navegabilidade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

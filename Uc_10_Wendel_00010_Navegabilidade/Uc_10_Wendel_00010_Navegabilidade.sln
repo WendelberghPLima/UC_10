@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uc_10_Wendel_00010_Navegabilidade", "Uc_10_Wendel_00010_Navegabilidade\Uc_10_Wendel_00010_Navegabilidade.csproj", "{C3591AB4-677A-4FAC-84BE-8464CE133771}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3591AB4-677A-4FAC-84BE-8464CE133771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3591AB4-677A-4FAC-84BE-8464CE133771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3591AB4-677A-4FAC-84BE-8464CE133771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3591AB4-677A-4FAC-84BE-8464CE133771}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE25882A-3B37-46F5-8E0D-013068BC88BA}
+	EndGlobalSection
+EndGlobal

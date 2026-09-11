@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Avaliação";
+}
+
+<section class="page-header">
+    <h1>Avaliação</h1>
+    <p>Conte o que você achou de Star Wars: Episódio III - A Vingança dos Sith.</p>
+</section>
+
+<section class="avaliacao">
+
+    <form class="avaliacao-form">
+
+        <div class="campo">
+            <label>Nome</label>
+            <input type="text" placeholder="Digite seu nome">
+        </div>
+
+        <div class="campo">
+            <label>Nota</label>
+            <select>
+                <option>★★★★★ - Excelente</option>
+                <option>★★★★☆ - Muito bom</option>
+                <option>★★★☆☆ - Bom</option>
+                <option>★★☆☆☆ - Regular</option>
+                <option>★☆☆☆☆ - Ruim</option>
+            </select>
+        </div>
+
+        <div class="campo">
+            <label>Comentário</label>
+            <textarea placeholder="Escreva sua opinião sobre o filme..."></textarea>
+        </div>
+
+        <button type="submit">Enviar Avaliação</button>
+
+    </form>
+
+</section>

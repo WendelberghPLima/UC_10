@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34647DD8-B707-45DD-ADB1-9A9935112B8D}|Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_codigo_00005\\uc_10_wendel_relacionamentos_codigo_00005\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34647DD8-B707-45DD-ADB1-9A9935112B8D}|Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005.csproj|solutionrelative:uc_10_wendel_relacionamentos_codigo_00005\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Migrations\\20260902192633_t_curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Uc_10_Wendel_Relacionamentos_Codigo_00005\\Migrations\\20260902192633_t_curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Migrations\\20260902192623_t_aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Uc_10_Wendel_Relacionamentos_Codigo_00005\\Migrations\\20260902192623_t_aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34647DD8-B707-45DD-ADB1-9A9935112B8D}|Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_codigo_00005\\uc_10_wendel_relacionamentos_codigo_00005\\controllers\\alunoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34647DD8-B707-45DD-ADB1-9A9935112B8D}|Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005.csproj|solutionrelative:uc_10_wendel_relacionamentos_codigo_00005\\controllers\\alunoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34647DD8-B707-45DD-ADB1-9A9935112B8D}|Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_codigo_00005\\uc_10_wendel_relacionamentos_codigo_00005\\controllers\\cursoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34647DD8-B707-45DD-ADB1-9A9935112B8D}|Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005.csproj|solutionrelative:uc_10_wendel_relacionamentos_codigo_00005\\controllers\\cursoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34647DD8-B707-45DD-ADB1-9A9935112B8D}|Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_codigo_00005\\uc_10_wendel_relacionamentos_codigo_00005\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34647DD8-B707-45DD-ADB1-9A9935112B8D}|Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005.csproj|solutionrelative:uc_10_wendel_relacionamentos_codigo_00005\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34647DD8-B707-45DD-ADB1-9A9935112B8D}|Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_codigo_00005\\uc_10_wendel_relacionamentos_codigo_00005\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34647DD8-B707-45DD-ADB1-9A9935112B8D}|Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005.csproj|solutionrelative:uc_10_wendel_relacionamentos_codigo_00005\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Codigo_00005\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Codigo_00005\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-02T19:26:53.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260902192633_t_curso.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Migrations\\20260902192633_t_curso.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Codigo_00005\\Migrations\\20260902192633_t_curso.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Migrations\\20260902192633_t_curso.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Codigo_00005\\Migrations\\20260902192633_t_curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T19:26:33.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260902192623_t_aluno.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Migrations\\20260902192623_t_aluno.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Codigo_00005\\Migrations\\20260902192623_t_aluno.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Migrations\\20260902192623_t_aluno.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Codigo_00005\\Migrations\\20260902192623_t_aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T19:26:23.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CursoesController.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Controllers\\CursoesController.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Codigo_00005\\Controllers\\CursoesController.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Controllers\\CursoesController.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Codigo_00005\\Controllers\\CursoesController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T19:25:58.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlunoesController.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Controllers\\AlunoesController.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Codigo_00005\\Controllers\\AlunoesController.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Controllers\\AlunoesController.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Codigo_00005\\Controllers\\AlunoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T19:25:30.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Codigo_00005\\Models\\Curso.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Models\\Curso.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Codigo_00005\\Models\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T19:21:16.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Codigo_00005\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Uc_10_Wendel_Relacionamentos_Codigo_00005\\Models\\Aluno.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Codigo_00005\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T19:17:56.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

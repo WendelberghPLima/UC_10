@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92E10E81-1723-4CBD-A721-F4E3DD4B99E2}|Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_descricao_00005\\uc_10_wendel_relacionamentos_descricao_00005\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92E10E81-1723-4CBD-A721-F4E3DD4B99E2}|Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao_00005\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Migrations\\20260902193816_tb_aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Uc_10_Wendel_Relacionamentos_Descricao_00005\\Migrations\\20260902193816_tb_aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Migrations\\20260902193802_tb_curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Uc_10_Wendel_Relacionamentos_Descricao_00005\\Migrations\\20260902193802_tb_curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E10E81-1723-4CBD-A721-F4E3DD4B99E2}|Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_descricao_00005\\uc_10_wendel_relacionamentos_descricao_00005\\controllers\\cursoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E10E81-1723-4CBD-A721-F4E3DD4B99E2}|Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao_00005\\controllers\\cursoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E10E81-1723-4CBD-A721-F4E3DD4B99E2}|Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_descricao_00005\\uc_10_wendel_relacionamentos_descricao_00005\\controllers\\alunoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E10E81-1723-4CBD-A721-F4E3DD4B99E2}|Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao_00005\\controllers\\alunoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E10E81-1723-4CBD-A721-F4E3DD4B99E2}|Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_descricao_00005\\uc_10_wendel_relacionamentos_descricao_00005\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E10E81-1723-4CBD-A721-F4E3DD4B99E2}|Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao_00005\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E10E81-1723-4CBD-A721-F4E3DD4B99E2}|Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_descricao_00005\\uc_10_wendel_relacionamentos_descricao_00005\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E10E81-1723-4CBD-A721-F4E3DD4B99E2}|Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao_00005\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao_00005\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao_00005\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-02T19:38:42.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260902193816_tb_aluno.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Migrations\\20260902193816_tb_aluno.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao_00005\\Migrations\\20260902193816_tb_aluno.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Migrations\\20260902193816_tb_aluno.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao_00005\\Migrations\\20260902193816_tb_aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T19:38:16.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260902193802_tb_curso.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Migrations\\20260902193802_tb_curso.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao_00005\\Migrations\\20260902193802_tb_curso.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Migrations\\20260902193802_tb_curso.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao_00005\\Migrations\\20260902193802_tb_curso.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T19:38:02.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CursoesController.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Controllers\\CursoesController.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao_00005\\Controllers\\CursoesController.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Controllers\\CursoesController.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao_00005\\Controllers\\CursoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T19:37:38.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlunoesController.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Controllers\\AlunoesController.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao_00005\\Controllers\\AlunoesController.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Controllers\\AlunoesController.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao_00005\\Controllers\\AlunoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T19:37:15.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao_00005\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Models\\Aluno.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao_00005\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T19:34:11.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao_00005\\Models\\Curso.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Uc_10_Wendel_Relacionamentos_Descricao_00005\\Models\\Curso.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao_00005\\Models\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T19:32:53.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

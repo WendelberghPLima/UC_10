@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uc_10_Wendel_Relacionamentos_Descricao_00005", "Uc_10_Wendel_Relacionamentos_Descricao_00005\Uc_10_Wendel_Relacionamentos_Descricao_00005.csproj", "{92E10E81-1723-4CBD-A721-F4E3DD4B99E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92E10E81-1723-4CBD-A721-F4E3DD4B99E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E10E81-1723-4CBD-A721-F4E3DD4B99E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E10E81-1723-4CBD-A721-F4E3DD4B99E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E10E81-1723-4CBD-A721-F4E3DD4B99E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B103C74E-1825-40FF-9555-4A48BC48110F}
+	EndGlobalSection
+EndGlobal

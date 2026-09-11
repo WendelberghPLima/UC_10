@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_00002\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46E1E7D6-A4A5-4755-9C56-0F6A8A39A04C}|Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_00002\\uc_10_wendel_relacionamentos_00002\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E1E7D6-A4A5-4755-9C56-0F6A8A39A04C}|Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002.csproj|solutionrelative:uc_10_wendel_relacionamentos_00002\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E1E7D6-A4A5-4755-9C56-0F6A8A39A04C}|Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_00002\\uc_10_wendel_relacionamentos_00002\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E1E7D6-A4A5-4755-9C56-0F6A8A39A04C}|Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002.csproj|solutionrelative:uc_10_wendel_relacionamentos_00002\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E1E7D6-A4A5-4755-9C56-0F6A8A39A04C}|Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_00002\\uc_10_wendel_relacionamentos_00002\\controllers\\pedidoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E1E7D6-A4A5-4755-9C56-0F6A8A39A04C}|Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002.csproj|solutionrelative:uc_10_wendel_relacionamentos_00002\\controllers\\pedidoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E1E7D6-A4A5-4755-9C56-0F6A8A39A04C}|Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_00002\\uc_10_wendel_relacionamentos_00002\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46E1E7D6-A4A5-4755-9C56-0F6A8A39A04C}|Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002.csproj|solutionrelative:uc_10_wendel_relacionamentos_00002\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E1E7D6-A4A5-4755-9C56-0F6A8A39A04C}|Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_00002\\uc_10_wendel_relacionamentos_00002\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E1E7D6-A4A5-4755-9C56-0F6A8A39A04C}|Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002.csproj|solutionrelative:uc_10_wendel_relacionamentos_00002\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E1E7D6-A4A5-4755-9C56-0F6A8A39A04C}|Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_00002\\uc_10_wendel_relacionamentos_00002\\migrations\\20260831172743_tb_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E1E7D6-A4A5-4755-9C56-0F6A8A39A04C}|Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002.csproj|solutionrelative:uc_10_wendel_relacionamentos_00002\\migrations\\20260831172743_tb_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E1E7D6-A4A5-4755-9C56-0F6A8A39A04C}|Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_00002\\uc_10_wendel_relacionamentos_00002\\migrations\\20260831172728_tb_pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E1E7D6-A4A5-4755-9C56-0F6A8A39A04C}|Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002.csproj|solutionrelative:uc_10_wendel_relacionamentos_00002\\migrations\\20260831172728_tb_pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_00002\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_00002\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-31T17:32:32.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260831172743_tb_Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002\\Migrations\\20260831172743_tb_Cliente.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_00002\\Migrations\\20260831172743_tb_Cliente.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002\\Migrations\\20260831172743_tb_Cliente.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_00002\\Migrations\\20260831172743_tb_Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T17:27:43.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260831172728_tb_Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002\\Migrations\\20260831172728_tb_Pedido.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_00002\\Migrations\\20260831172728_tb_Pedido.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002\\Migrations\\20260831172728_tb_Pedido.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_00002\\Migrations\\20260831172728_tb_Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T17:27:29.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoesController.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002\\Controllers\\PedidoesController.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_00002\\Controllers\\PedidoesController.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002\\Controllers\\PedidoesController.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_00002\\Controllers\\PedidoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T17:26:28.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_00002\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_00002\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T17:26:02.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_00002\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002\\Models\\Pedido.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_00002\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T17:14:34.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_00002\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_00002\\Uc_10_Wendel_Relacionamentos_00002\\Models\\Cliente.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_00002\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T17:14:09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

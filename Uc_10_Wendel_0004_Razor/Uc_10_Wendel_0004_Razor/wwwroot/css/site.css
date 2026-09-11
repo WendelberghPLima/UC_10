@@ -1,0 +1,159 @@
+html {
+    font-size: 14px;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #111827;
+    color: #f5f5f5;
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+main {
+    flex: 1;
+}
+
+/* NAV */
+
+.navbar {
+    background: #1b1b1b !important;
+}
+
+.navbar-brand {
+    color: #e63946 !important;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: white !important;
+    transition: .3s;
+}
+
+    .nav-link:hover {
+        color: #ffcc00 !important;
+    }
+
+/* CONTAINER */
+
+.container,
+.text-center {
+    max-width: 1000px;
+    margin: 40px auto;
+    text-align: center;
+}
+
+/* TÍTULOS */
+
+h1,
+h2,
+h3 {
+    color: #ffcc00;
+    margin-bottom: 20px;
+}
+
+/* PARÁGRAFOS */
+
+p {
+    font-size: 18px;
+    line-height: 1.7;
+    margin-bottom: 20px;
+}
+
+/* TABELA */
+
+.tabela {
+    margin: 30px auto;
+    border-collapse: collapse;
+    width: 80%;
+    background: #1d1d1d;
+}
+
+    .tabela th {
+        background: #e63946;
+        color: white;
+    }
+
+    .tabela th,
+    .tabela td {
+        border: 1px solid #444;
+        padding: 12px;
+    }
+
+    .tabela tr:nth-child(even) {
+        background: #242424;
+    }
+
+/* LISTA */
+
+ul {
+    width: fit-content;
+    margin: 20px auto;
+    text-align: left;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* IMAGENS */
+
+img {
+    display: block;
+    margin: 25px auto;
+    max-width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,.4);
+}
+
+/* BOTÃO */
+
+.filme-btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 24px;
+    background: #e63946;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: .3s;
+}
+
+    .filme-btn:hover {
+        background: #b71c1c;
+        transform: translateY(-3px);
+    }
+
+/* CARD */
+
+.card {
+    max-width: 900px;
+    margin: 40px auto;
+    background: #1d1d1d;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,.4);
+}
+
+/* FOOTER */
+
+footer {
+    background: #1b1b1b;
+    color: #bbb;
+    text-align: center;
+    padding: 0;
+    border-top: 1px solid #333;
+}

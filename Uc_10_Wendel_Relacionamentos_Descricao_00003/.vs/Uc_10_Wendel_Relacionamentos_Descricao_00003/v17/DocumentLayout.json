@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED57B9BA-E995-4D8A-B5F2-6A9224CA765B}|Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_descricao_00003\\uc_10_wendel_relacionamentos_descricao_00003\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED57B9BA-E995-4D8A-B5F2-6A9224CA765B}|Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao_00003\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED57B9BA-E995-4D8A-B5F2-6A9224CA765B}|Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_descricao_00003\\uc_10_wendel_relacionamentos_descricao_00003\\views\\pacientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED57B9BA-E995-4D8A-B5F2-6A9224CA765B}|Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao_00003\\views\\pacientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED57B9BA-E995-4D8A-B5F2-6A9224CA765B}|Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_descricao_00003\\uc_10_wendel_relacionamentos_descricao_00003\\controllers\\medicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED57B9BA-E995-4D8A-B5F2-6A9224CA765B}|Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao_00003\\controllers\\medicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED57B9BA-E995-4D8A-B5F2-6A9224CA765B}|Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_descricao_00003\\uc_10_wendel_relacionamentos_descricao_00003\\migrations\\20260831201547_tb_paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED57B9BA-E995-4D8A-B5F2-6A9224CA765B}|Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao_00003\\migrations\\20260831201547_tb_paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED57B9BA-E995-4D8A-B5F2-6A9224CA765B}|Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_descricao_00003\\uc_10_wendel_relacionamentos_descricao_00003\\migrations\\20260831201602_tb_medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED57B9BA-E995-4D8A-B5F2-6A9224CA765B}|Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao_00003\\migrations\\20260831201602_tb_medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED57B9BA-E995-4D8A-B5F2-6A9224CA765B}|Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_descricao_00003\\uc_10_wendel_relacionamentos_descricao_00003\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED57B9BA-E995-4D8A-B5F2-6A9224CA765B}|Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao_00003\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED57B9BA-E995-4D8A-B5F2-6A9224CA765B}|Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_descricao_00003\\uc_10_wendel_relacionamentos_descricao_00003\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED57B9BA-E995-4D8A-B5F2-6A9224CA765B}|Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao_00003\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED57B9BA-E995-4D8A-B5F2-6A9224CA765B}|Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_descricao_00003\\uc_10_wendel_relacionamentos_descricao_00003\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED57B9BA-E995-4D8A-B5F2-6A9224CA765B}|Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao_00003\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Views\\Pacientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao_00003\\Views\\Pacientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Views\\Pacientes\\Create.cshtml",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao_00003\\Views\\Pacientes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-02T17:03:35.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao_00003\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao_00003\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-31T20:16:36.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260831201602_tb_Medico.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Migrations\\20260831201602_tb_Medico.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao_00003\\Migrations\\20260831201602_tb_Medico.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Migrations\\20260831201602_tb_Medico.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao_00003\\Migrations\\20260831201602_tb_Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T20:16:02.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260831201547_tb_Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Migrations\\20260831201547_tb_Paciente.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao_00003\\Migrations\\20260831201547_tb_Paciente.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Migrations\\20260831201547_tb_Paciente.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao_00003\\Migrations\\20260831201547_tb_Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T20:15:47.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao_00003\\Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao_00003\\Controllers\\PacientesController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T20:15:00.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicosController.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Controllers\\MedicosController.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao_00003\\Controllers\\MedicosController.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Controllers\\MedicosController.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao_00003\\Controllers\\MedicosController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAiwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T20:14:34.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao_00003\\Models\\Medico.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Models\\Medico.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao_00003\\Models\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T20:07:25.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao_00003\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Uc_10_Wendel_Relacionamentos_Descricao_00003\\Models\\Paciente.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao_00003\\Models\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T19:43:02.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width:768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #1b1b1b;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 60px;
+}
+
+/* ================= NAV ================= */
+
+.navbar {
+    background: #111 !important;
+}
+
+.navbar-brand {
+    color: #39ff14 !important;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: white !important;
+    transition: .3s;
+}
+
+    .nav-link:hover {
+        color: #39ff14 !important;
+    }
+
+/* ================= CONTAINER ================= */
+
+.container {
+    max-width: 1000px;
+    margin: 40px auto;
+    text-align: center;
+}
+
+/* ================= TÍTULOS ================= */
+
+.titulo,
+h1 {
+    color: #39ff14;
+    margin-bottom: 20px;
+}
+
+h3 {
+    color: #39ff14;
+    margin: 25px 0 15px;
+}
+
+/* ================= TEXTO ================= */
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 20px 0;
+}
+
+/* ================= IMAGENS ================= */
+
+img {
+    display: block;
+    margin: 25px auto;
+    max-width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,.4);
+}
+
+/* ================= LISTA ================= */
+
+ul {
+    width: fit-content;
+    margin: 20px auto;
+    text-align: left;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* ================= BOTÃO ================= */
+
+.botao-video {
+    display: inline-block;
+    margin-top: 20px;
+    background: #39ff14;
+    color: #111;
+    padding: 12px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: .3s;
+}
+
+    .botao-video:hover {
+        background: #2ecc0c;
+        transform: translateY(-3px);
+    }
+
+/* ================= CAIXA ================= */
+
+.card {
+    background: #2a2a2a;
+    border-radius: 12px;
+    padding: 25px;
+    margin: 30px auto;
+    box-shadow: 0 5px 15px rgba(0,0,0,.3);
+}
+
+/* ================= FOOTER ================= */
+
+footer {
+    background: #111;
+    color: #aaa;
+    text-align: center;
+}
+
+/* ================= RESPONSIVO ================= */
+
+@media(max-width:768px) {
+
+    .container {
+        padding: 20px;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    .botao-video {
+        width: 100%;
+    }
+
+    ul {
+        width: 100%;
+        padding-left: 25px;
+    }
+}
