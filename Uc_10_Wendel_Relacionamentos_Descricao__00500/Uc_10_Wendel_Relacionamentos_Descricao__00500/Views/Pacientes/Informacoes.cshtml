@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Informações dos Pacientes";
+}
+
+<div class="page-content">
+    <h1>Informações dos Pacientes</h1>
+
+    <p>
+        O cadastro de pacientes permite organizar os dados
+        necessários para o atendimento hospitalar.
+    </p>
+
+    <div class="info-card">
+        <h3>Dados cadastrais</h3>
+        <p>
+            Nome, idade e telefone são utilizados para
+            identificar e facilitar o contato com o paciente.
+        </p>
+    </div>
+
+    <div class="info-card">
+        <h3>Vínculo médico</h3>
+        <p>
+            Cada paciente pode ser relacionado a um médico
+            cadastrado no sistema.
+        </p>
+    </div>
+
+    <a asp-action="Index" class="btn btn-primary">
+        Voltar para pacientes
+    </a>
+</div>

@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - UC_10_Wendel_Projeto_limpo</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/UC_10_Wendel_Projeto_limpo.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Página principal</a>
+
+        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacidade</a>
+
+        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index1">Página principal 1</a>
+
+             
+    </header>
+        @RenderBody()
+
+    <footer class="border-top footer text-muted">
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

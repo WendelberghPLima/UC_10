@@ -1,47 +1,151 @@
 ﻿@model IEnumerable<Uc_10_Wendel_Relacionamentos_Descricao__00500.Models.Paciente>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Pacientes";
 }
 
-<h1>Pacientes</h1>
+<div class="page">
 
-<p>
-    <a asp-action="Create">Criar Novo</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Nome)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Idade)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Telefone)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nome)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Idade)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Telefone)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.PacienteId">Editar</a> |
-                <a asp-action="Details" asp-route-id="@item.PacienteId">Detalhes</a> |
-                <a asp-action="Delete" asp-route-id="@item.PacienteId">Excluir</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+    <div class="page-header">
+        <div>
+            <span class="page-label">SISTEMA HOSPITALAR</span>
+
+            <h1>Gerenciamento de pacientes</h1>
+
+            <p>
+                Consulte, cadastre e organize os pacientes do sistema.
+            </p>
+        </div>
+
+        <a asp-action="Create" class="btn btn-primary">
+            + Cadastrar paciente
+        </a>
+    </div>
+
+
+    <!-- AÇÕES RÁPIDAS -->
+
+    <div class="quick-actions">
+
+        <a asp-action="Informacoes" class="action-card">
+            <div class="action-icon">ⓘ</div>
+
+            <div>
+                <strong>Informações</strong>
+                <span>Veja informações sobre os pacientes.</span>
+            </div>
+        </a>
+
+
+        <a asp-action="Orientacoes" class="action-card">
+            <div class="action-icon">✓</div>
+
+            <div>
+                <strong>Orientações</strong>
+                <span>Confira orientações para o cadastro.</span>
+            </div>
+        </a>
+
+    </div>
+
+
+    <!-- TABELA -->
+
+    <div class="table-card">
+
+        <div class="table-header">
+
+            <div>
+                <h2>Pacientes cadastrados</h2>
+
+                <p>
+                    Lista de pacientes registrados no sistema.
+                </p>
+            </div>
+
+        </div>
+
+
+        <div class="table-responsive">
+
+            <table class="data-table">
+
+                <thead>
+
+                    <tr>
+
+                        <th>Nome</th>
+
+                        <th>Idade</th>
+
+                        <th>Telefone</th>
+
+                        <th>Ações</th>
+
+                    </tr>
+
+                </thead>
+
+
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+
+                            <td>
+
+                                <span class="avatar">
+                                    @item.Nome?.Substring(0, 1).ToUpper()
+                                </span>
+
+                                <strong>
+                                    @item.Nome
+                                </strong>
+
+                            </td>
+
+
+                            <td>
+
+                                <span class="badge badge-primary">
+                                    @item.Idade
+                                </span>
+
+                            </td>
+
+
+                            <td>
+                                @item.Telefone
+                            </td>
+
+
+                            <td class="table-actions">
+
+                                <a asp-action="Edit"
+                                   asp-route-id="@item.PacienteId"
+                                   class="action-edit">
+                                    Editar
+                                </a>
+
+                                <a asp-action="Details"
+                                   asp-route-id="@item.PacienteId"
+                                   class="action-details">
+                                    Detalhes
+                                </a>
+
+                                <a asp-action="Delete"
+                                   asp-route-id="@item.PacienteId"
+                                   class="action-delete">
+                                    Excluir
+                                </a>
+
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

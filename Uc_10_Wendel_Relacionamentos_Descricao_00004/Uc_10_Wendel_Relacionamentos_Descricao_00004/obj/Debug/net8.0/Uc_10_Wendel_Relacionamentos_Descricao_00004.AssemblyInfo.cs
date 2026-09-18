@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uc_10_Wendel_Relacionamentos_Descricao_00004")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fdf850257832c779463bfaa538a5a148c5069cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uc_10_Wendel_Relacionamentos_Descricao_00004")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uc_10_Wendel_Relacionamentos_Descricao_00004")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

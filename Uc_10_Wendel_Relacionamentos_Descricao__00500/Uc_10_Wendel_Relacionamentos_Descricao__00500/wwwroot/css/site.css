@@ -215,3 +215,530 @@ h1, h2, h3 {
         padding: 25px;
     }
 }
+
+/* ========================================
+   CONFIGURAÇÕES GERAIS
+======================================== */
+
+html {
+    font-size: 16px;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #222;
+    background: #f7f8fa;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+p {
+    margin-top: 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+
+/* ========================================
+   HERO
+======================================== */
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+    padding: 60px 40px;
+    margin-bottom: 40px;
+    border-radius: 16px;
+}
+
+    .hero > div {
+        flex: 1;
+    }
+
+    .hero h1 {
+        font-size: 42px;
+        line-height: 1.15;
+        margin: 15px 0;
+    }
+
+    .hero p {
+        font-size: 18px;
+        line-height: 1.6;
+    }
+
+
+/* Cores dos sistemas */
+
+.hero-hospital {
+    background: #eaf7f8;
+}
+
+.hero-auto {
+    background: #fff3d6;
+}
+
+.hero-school {
+    background: #eaf2ff;
+}
+
+
+/* ========================================
+   IMAGENS
+======================================== */
+
+.hero-image img {
+    width: 100%;
+    max-width: 500px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 14px;
+}
+
+
+/* ========================================
+   TAGS / LABELS
+======================================== */
+
+.tag,
+.page-label {
+    display: inline-block;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 13px;
+}
+
+.page-label {
+    color: #087f8c;
+}
+
+
+/* ========================================
+   BOTÕES
+======================================== */
+
+.btn {
+    display: inline-block;
+    padding: 11px 18px;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+    .btn:hover {
+        transform: translateY(-1px);
+    }
+
+.btn-primary {
+    color: white;
+    background: #087f8c;
+}
+
+    .btn-primary:hover {
+        color: white;
+        background: #066b75;
+    }
+
+.btn-secondary {
+    color: #333;
+    background: #e9ecef;
+}
+
+    .btn-secondary:hover {
+        color: #222;
+        background: #dfe2e5;
+    }
+
+.btn-danger {
+    color: white;
+    background: #dc3545;
+}
+
+    .btn-danger:hover {
+        color: white;
+        background: #bb2d3b;
+    }
+
+.btn-auto {
+    color: white;
+    background: #c58a00;
+}
+
+.btn-school {
+    color: white;
+    background: #2764b8;
+}
+
+
+/* ========================================
+   PÁGINA
+======================================== */
+
+.page {
+    width: 100%;
+    max-width: 1200px;
+    margin: 35px auto;
+    padding: 0 20px;
+}
+
+.page-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 25px;
+    margin-bottom: 30px;
+}
+
+    .page-header h1 {
+        margin: 8px 0;
+        font-size: 34px;
+    }
+
+    .page-header p {
+        margin: 0;
+        color: #666;
+        line-height: 1.5;
+    }
+
+
+/* ========================================
+   CONTEÚDO / SOBRE / INFORMAÇÕES
+======================================== */
+
+.page-content {
+    width: 100%;
+    max-width: 850px;
+    margin: 30px auto;
+    padding: 40px;
+    background: white;
+    border: 1px solid #e1e4e8;
+    border-radius: 14px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.05);
+}
+
+    .page-content h1 {
+        margin-bottom: 20px;
+        font-size: 36px;
+    }
+
+    .page-content h2 {
+        margin-top: 30px;
+    }
+
+    .page-content p,
+    .page-content li {
+        line-height: 1.8;
+    }
+
+
+/* ========================================
+   CARDS
+======================================== */
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+}
+
+.card {
+    padding: 24px;
+    background: white;
+    border: 1px solid #e1e4e8;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.05);
+}
+
+    .card h3 {
+        margin-bottom: 10px;
+    }
+
+    .card p {
+        color: #666;
+        line-height: 1.5;
+    }
+
+    .card a {
+        display: inline-block;
+        margin-top: 10px;
+        color: #2764b8;
+        font-weight: bold;
+    }
+
+
+/* ========================================
+   AÇÕES RÁPIDAS
+======================================== */
+
+.quick-actions {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 18px;
+    margin-bottom: 30px;
+}
+
+.action-card {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 20px;
+    color: #222;
+    background: white;
+    border: 1px solid #e1e4e8;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.05);
+    transition: 0.2s;
+}
+
+    .action-card:hover {
+        color: #222;
+        border-color: #087f8c;
+        transform: translateY(-2px);
+    }
+
+.action-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 45px;
+    height: 45px;
+    color: #087f8c;
+    background: #eaf7f8;
+    border-radius: 10px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.action-card strong {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.action-card span {
+    color: #666;
+    font-size: 14px;
+}
+
+
+/* ========================================
+   ÁREA DA TABELA
+======================================== */
+
+.table-card {
+    overflow: hidden;
+    background: white;
+    border: 1px solid #e1e4e8;
+    border-radius: 14px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.05);
+}
+
+.table-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 24px;
+    border-bottom: 1px solid #e1e4e8;
+}
+
+    .table-header h2 {
+        margin-bottom: 5px;
+        font-size: 21px;
+    }
+
+    .table-header p {
+        margin: 0;
+        color: #666;
+        font-size: 14px;
+    }
+
+
+/* ========================================
+   TABELA
+======================================== */
+
+.table-responsive {
+    overflow-x: auto;
+}
+
+.data-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    .data-table thead {
+        background: #f8f9fa;
+    }
+
+    .data-table th {
+        padding: 15px 20px;
+        color: #555;
+        font-size: 13px;
+        font-weight: bold;
+        text-align: left;
+    }
+
+    .data-table td {
+        padding: 16px 20px;
+        border-top: 1px solid #eeeeee;
+        vertical-align: middle;
+    }
+
+    .data-table tbody tr {
+        transition: 0.15s;
+    }
+
+        .data-table tbody tr:hover {
+            background: #fafafa;
+        }
+
+
+/* ========================================
+   AVATAR
+======================================== */
+
+.avatar {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    margin-right: 10px;
+    color: white;
+    background: #087f8c;
+    border-radius: 50%;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+
+/* ========================================
+   BADGES
+======================================== */
+
+.badge {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.badge-primary {
+    color: #087f8c;
+    background: #eaf7f8;
+}
+
+.badge-warning {
+    color: #8a6500;
+    background: #fff3d6;
+}
+
+.badge-info {
+    color: #2764b8;
+    background: #eaf2ff;
+}
+
+
+/* ========================================
+   AÇÕES DA TABELA
+======================================== */
+
+.table-actions {
+    white-space: nowrap;
+}
+
+    .table-actions a {
+        margin-right: 10px;
+        font-size: 13px;
+        font-weight: bold;
+    }
+
+.action-edit {
+    color: #2764b8;
+}
+
+.action-details {
+    color: #087f8c;
+}
+
+.action-delete {
+    color: #dc3545;
+}
+
+.table-actions a:hover {
+    text-decoration: underline;
+}
+
+
+/* ========================================
+   SEÇÕES
+======================================== */
+
+.section {
+    padding: 10px 5px 40px;
+}
+
+.section-title {
+    margin-bottom: 25px;
+    font-size: 30px;
+}
+
+
+/* ========================================
+   RESPONSIVIDADE
+======================================== */
+
+@media (max-width: 768px) {
+
+    .hero {
+        flex-direction: column;
+        padding: 35px 20px;
+    }
+
+        .hero h1 {
+            font-size: 32px;
+        }
+
+    .hero-image img {
+        height: 220px;
+    }
+
+    .page {
+        padding: 0 15px;
+    }
+
+    .page-header {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+        .page-header .btn {
+            width: 100%;
+            text-align: center;
+        }
+
+    .page-content {
+        padding: 25px;
+    }
+
+    .table-header {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+}

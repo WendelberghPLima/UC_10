@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\",
+  "WorkspaceRootPath": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_codigo_00004\\uc_10_wendel_relacionamentos_codigo_00004\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|solutionrelative:uc_10_wendel_relacionamentos_codigo_00004\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_codigo_00004\\uc_10_wendel_relacionamentos_codigo_00004\\models\\automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_codigo_00004\\uc_10_wendel_relacionamentos_codigo_00004\\models\\automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|solutionrelative:uc_10_wendel_relacionamentos_codigo_00004\\models\\automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_codigo_00004\\uc_10_wendel_relacionamentos_codigo_00004\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_codigo_00004\\uc_10_wendel_relacionamentos_codigo_00004\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|solutionrelative:uc_10_wendel_relacionamentos_codigo_00004\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_codigo_00004\\uc_10_wendel_relacionamentos_codigo_00004\\controllers\\marcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|solutionrelative:uc_10_wendel_relacionamentos_codigo_00004\\controllers\\marcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_codigo_00004\\uc_10_wendel_relacionamentos_codigo_00004\\controllers\\automovelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|solutionrelative:uc_10_wendel_relacionamentos_codigo_00004\\controllers\\automovelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_codigo_00004\\uc_10_wendel_relacionamentos_codigo_00004\\migrations\\20260902180903_t_marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_codigo_00004\\uc_10_wendel_relacionamentos_codigo_00004\\migrations\\20260902180903_t_marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|solutionrelative:uc_10_wendel_relacionamentos_codigo_00004\\migrations\\20260902180903_t_marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc_10_wendel_relacionamentos_codigo_00004\\uc_10_wendel_relacionamentos_codigo_00004\\migrations\\20260902180846_t_automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_codigo_00004\\uc_10_wendel_relacionamentos_codigo_00004\\controllers\\marcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|solutionrelative:uc_10_wendel_relacionamentos_codigo_00004\\controllers\\marcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_codigo_00004\\uc_10_wendel_relacionamentos_codigo_00004\\controllers\\automovelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|solutionrelative:uc_10_wendel_relacionamentos_codigo_00004\\controllers\\automovelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_codigo_00004\\uc_10_wendel_relacionamentos_codigo_00004\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|solutionrelative:uc_10_wendel_relacionamentos_codigo_00004\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_codigo_00004\\uc_10_wendel_relacionamentos_codigo_00004\\migrations\\20260902180846_t_automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36E768C2-1533-4490-8A43-C0FAADCC1EF0}|Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004.csproj|solutionrelative:uc_10_wendel_relacionamentos_codigo_00004\\migrations\\20260902180846_t_automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,21 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Automovel.cs",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Models\\Automovel.cs",
-              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Codigo_00004\\Models\\Automovel.cs",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Models\\Automovel.cs",
-              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Codigo_00004\\Models\\Automovel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T19:00:31.914Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -63,36 +50,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Automovel.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Models\\Automovel.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Codigo_00004\\Models\\Automovel.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Models\\Automovel.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Codigo_00004\\Models\\Automovel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T19:00:31.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Codigo_00004\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Codigo_00004\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-02T18:10:38.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "20260902180903_t_marca.cs",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Migrations\\20260902180903_t_marca.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Migrations\\20260902180903_t_marca.cs",
               "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Codigo_00004\\Migrations\\20260902180903_t_marca.cs",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Migrations\\20260902180903_t_marca.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Migrations\\20260902180903_t_marca.cs",
               "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Codigo_00004\\Migrations\\20260902180903_t_marca.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T18:09:03.567Z"
+              "WhenOpened": "2026-09-02T18:09:03.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "20260902180846_t_automovel.cs",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Migrations\\20260902180846_t_automovel.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Migrations\\20260902180846_t_automovel.cs",
               "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Codigo_00004\\Migrations\\20260902180846_t_automovel.cs",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Migrations\\20260902180846_t_automovel.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Migrations\\20260902180846_t_automovel.cs",
               "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Codigo_00004\\Migrations\\20260902180846_t_automovel.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,33 +103,35 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MarcasController.cs",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Controllers\\MarcasController.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Controllers\\MarcasController.cs",
               "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Codigo_00004\\Controllers\\MarcasController.cs",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Controllers\\MarcasController.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Controllers\\MarcasController.cs",
               "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Codigo_00004\\Controllers\\MarcasController.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T18:08:15.964Z"
+              "WhenOpened": "2026-09-02T18:08:15.964Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AutomovelsController.cs",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Controllers\\AutomovelsController.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Controllers\\AutomovelsController.cs",
               "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Codigo_00004\\Controllers\\AutomovelsController.cs",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Controllers\\AutomovelsController.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Controllers\\AutomovelsController.cs",
               "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Codigo_00004\\Controllers\\AutomovelsController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T18:07:52.332Z"
+              "WhenOpened": "2026-09-02T18:07:52.332Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Marca.cs",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Models\\Marca.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Models\\Marca.cs",
               "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Codigo_00004\\Models\\Marca.cs",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Models\\Marca.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Uc_10_Wendel_Relacionamentos_Codigo_00004\\Models\\Marca.cs",
               "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Codigo_00004\\Models\\Marca.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

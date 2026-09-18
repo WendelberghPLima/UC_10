@@ -38,21 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00004\\Uc_10_Wendel_Relacionamentos_Descricao_00004\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao_00004\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00004\\Uc_10_Wendel_Relacionamentos_Descricao_00004\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao_00004\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAB6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-02T19:13:44.133Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -60,6 +47,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00004\\Uc_10_Wendel_Relacionamentos_Descricao_00004\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao_00004\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00004\\Uc_10_Wendel_Relacionamentos_Descricao_00004\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao_00004\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-02T19:13:44.133Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

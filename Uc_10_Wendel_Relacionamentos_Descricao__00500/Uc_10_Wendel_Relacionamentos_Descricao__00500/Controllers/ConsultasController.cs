@@ -43,14 +43,14 @@ namespace Uc_10_Wendel_Relacionamentos_Descricao__00500.Controllers
             {
                 return NotFound();
             }
-
+            
             return View(consulta);
         }
 
         // GET: Consultas/Create
         public IActionResult Create()
         {
-            ViewData["MedicoId"] = new SelectList(_context.Medico, "MedicoId", "CRM");
+            ViewData["MedicoId"] = new SelectList(_context.Medico, "MedicoId", "Nome");
             ViewData["PacienteId"] = new SelectList(_context.Paciente, "PacienteId", "Nome");
             ViewData["TipoConsultaId"] = new SelectList(_context.TipoConsulta, "TipoConsultaId", "Nome");
             return View();
@@ -69,7 +69,7 @@ namespace Uc_10_Wendel_Relacionamentos_Descricao__00500.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["MedicoId"] = new SelectList(_context.Medico, "MedicoId", "CRM", consulta.MedicoId);
+            ViewData["MedicoId"] = new SelectList(_context.Medico, "MedicoId", "Nome", consulta.MedicoId);
             ViewData["PacienteId"] = new SelectList(_context.Paciente, "PacienteId", "Nome", consulta.PacienteId);
             ViewData["TipoConsultaId"] = new SelectList(_context.TipoConsulta, "TipoConsultaId", "Nome", consulta.TipoConsultaId);
             return View(consulta);
@@ -88,7 +88,7 @@ namespace Uc_10_Wendel_Relacionamentos_Descricao__00500.Controllers
             {
                 return NotFound();
             }
-            ViewData["MedicoId"] = new SelectList(_context.Medico, "MedicoId", "CRM", consulta.MedicoId);
+            ViewData["MedicoId"] = new SelectList(_context.Medico, "MedicoId", "Nome", consulta.MedicoId);
             ViewData["PacienteId"] = new SelectList(_context.Paciente, "PacienteId", "Nome", consulta.PacienteId);
             ViewData["TipoConsultaId"] = new SelectList(_context.TipoConsulta, "TipoConsultaId", "Nome", consulta.TipoConsultaId);
             return View(consulta);
@@ -126,10 +126,12 @@ namespace Uc_10_Wendel_Relacionamentos_Descricao__00500.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["MedicoId"] = new SelectList(_context.Medico, "MedicoId", "CRM", consulta.MedicoId);
+            ViewData["MedicoId"] = new SelectList(_context.Medico, "MedicoId", "Nome", consulta.MedicoId);
             ViewData["PacienteId"] = new SelectList(_context.Paciente, "PacienteId", "Nome", consulta.PacienteId);
             ViewData["TipoConsultaId"] = new SelectList(_context.TipoConsulta, "TipoConsultaId", "Nome", consulta.TipoConsultaId);
             return View(consulta);
+
+            
         }
 
         // GET: Consultas/Delete/5
@@ -171,6 +173,16 @@ namespace Uc_10_Wendel_Relacionamentos_Descricao__00500.Controllers
         private bool ConsultaExists(int id)
         {
             return _context.Consulta.Any(e => e.ConsultaId == id);
+        }
+
+        public IActionResult Informacoes()
+        {
+            return View();
+        }
+
+        public IActionResult Orientacoes()
+        {
+            return View();
         }
     }
 }

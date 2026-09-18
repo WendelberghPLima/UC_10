@@ -3,72 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\views\\tipoconsultas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\views\\tipoconsultas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\models\\tipoconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\models\\tipoconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\views\\consultas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\views\\consultas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\views\\consultas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\views\\consultas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\views\\consultas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\views\\consultas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\views\\consultas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\views\\consultas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\views\\consultas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\views\\consultas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\views\\tipoconsultas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\views\\tipoconsultas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\views\\tipoconsultas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\views\\tipoconsultas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\views\\tipoconsultas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\views\\tipoconsultas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\views\\consultas\\orientacoes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\views\\consultas\\orientacoes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\views\\tipoconsultas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\views\\tipoconsultas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\views\\consultas\\informacoes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\views\\consultas\\informacoes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_relacionamentos_descricao__00500\\uc_10_wendel_relacionamentos_descricao__00500\\views\\pacientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8E9F674-8315-47E9-A0F3-07460157F622}|Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500.csproj|solutionrelative:uc_10_wendel_relacionamentos_descricao__00500\\views\\pacientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,223 +46,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAAAJwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-09-14T17:23:32.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T17:18:28.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T17:02:58.082Z",
+              "DocumentIndex": 1,
+              "Title": "ConsultasController.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Controllers\\ConsultasController.cs",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Controllers\\ConsultasController.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Controllers\\ConsultasController.cs",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Controllers\\ConsultasController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwIUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T18:07:52.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Create.cshtml",
-              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Create.cshtml",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Create.cshtml",
-              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Create.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
+              "Title": "Informacoes.cshtml",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Informacoes.cshtml",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Informacoes.cshtml",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Informacoes.cshtml",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Informacoes.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T16:55:34.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-18T18:01:52.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Delete.cshtml",
-              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Delete.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Orientacoes.cshtml",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Orientacoes.cshtml",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Orientacoes.cshtml",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Orientacoes.cshtml",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Orientacoes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T16:55:05.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-18T18:01:36.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Details.cshtml",
-              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Details.cshtml",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Details.cshtml",
-              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T16:54:45.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Edit.cshtml",
-              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Edit.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T16:54:15.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Index.cshtml",
               "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Index.cshtml",
               "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Index.cshtml",
               "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Consultas\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T16:53:24.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Create.cshtml",
-              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Create.cshtml",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Create.cshtml",
-              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T16:52:31.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Delete.cshtml",
-              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T16:52:01.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Details.cshtml",
-              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Details.cshtml",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Details.cshtml",
-              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T16:50:28.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Edit.cshtml",
-              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Edit.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-11T20:20:27.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Index.cshtml",
-              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Index.cshtml",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Index.cshtml",
-              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\TipoConsultas\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-11T20:04:38.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAB2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-11T19:07:29.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Consulta.cs",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Models\\Consulta.cs",
-              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Models\\Consulta.cs",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Models\\Consulta.cs",
-              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Models\\Consulta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T18:11:25.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TipoConsulta.cs",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Models\\TipoConsulta.cs",
-              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Models\\TipoConsulta.cs",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Models\\TipoConsulta.cs",
-              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Models\\TipoConsulta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T18:04:40.296Z",
+              "WhenOpened": "2026-09-18T18:01:15.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Paciente.cs",
-              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Models\\Paciente.cs",
-              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Models\\Paciente.cs",
-              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Models\\Paciente.cs",
-              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Models\\Paciente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T18:04:13.884Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Pacientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Pacientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Pacientes\\Index.cshtml",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\Views\\Pacientes\\Index.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswJYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-18T17:31:19.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\Uc_10_Wendel_Relacionamentos_Descricao__00500\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Uc_10_Wendel_Relacionamentos_Descricao__00500\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAFYCAAAAAAAAAAAswOcCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-09-14T17:23:32.783Z",
               "EditorCaption": ""
             }
           ]

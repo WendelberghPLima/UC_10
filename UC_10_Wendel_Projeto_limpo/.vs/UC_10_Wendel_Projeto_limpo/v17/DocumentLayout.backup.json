@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\UC_10_Wendel_Projeto_limpo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE3DD7-F170-4D8A-8DED-28EA363D53CA}|UC_10_Wendel_Projeto_limpo\\UC_10_Wendel_Projeto_limpo.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_projeto_limpo\\uc_10_wendel_projeto_limpo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFE3DD7-F170-4D8A-8DED-28EA363D53CA}|UC_10_Wendel_Projeto_limpo\\UC_10_Wendel_Projeto_limpo.csproj|solutionrelative:uc_10_wendel_projeto_limpo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE3DD7-F170-4D8A-8DED-28EA363D53CA}|UC_10_Wendel_Projeto_limpo\\UC_10_Wendel_Projeto_limpo.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_projeto_limpo\\uc_10_wendel_projeto_limpo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFE3DD7-F170-4D8A-8DED-28EA363D53CA}|UC_10_Wendel_Projeto_limpo\\UC_10_Wendel_Projeto_limpo.csproj|solutionrelative:uc_10_wendel_projeto_limpo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE3DD7-F170-4D8A-8DED-28EA363D53CA}|UC_10_Wendel_Projeto_limpo\\UC_10_Wendel_Projeto_limpo.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_projeto_limpo\\uc_10_wendel_projeto_limpo\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFE3DD7-F170-4D8A-8DED-28EA363D53CA}|UC_10_Wendel_Projeto_limpo\\UC_10_Wendel_Projeto_limpo.csproj|solutionrelative:uc_10_wendel_projeto_limpo\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE3DD7-F170-4D8A-8DED-28EA363D53CA}|UC_10_Wendel_Projeto_limpo\\UC_10_Wendel_Projeto_limpo.csproj|c:\\users\\wendelbergh.plima\\source\\repos\\uc10\\uc_10_wendel_projeto_limpo\\uc_10_wendel_projeto_limpo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFE3DD7-F170-4D8A-8DED-28EA363D53CA}|UC_10_Wendel_Projeto_limpo\\UC_10_Wendel_Projeto_limpo.csproj|solutionrelative:uc_10_wendel_projeto_limpo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\UC_10_Wendel_Projeto_limpo\\UC_10_Wendel_Projeto_limpo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UC_10_Wendel_Projeto_limpo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\UC_10_Wendel_Projeto_limpo\\UC_10_Wendel_Projeto_limpo\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "UC_10_Wendel_Projeto_limpo\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T17:15:41.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\UC_10_Wendel_Projeto_limpo\\UC_10_Wendel_Projeto_limpo\\Views\\Home\\Index1.cshtml",
+              "RelativeDocumentMoniker": "UC_10_Wendel_Projeto_limpo\\Views\\Home\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\UC_10_Wendel_Projeto_limpo\\UC_10_Wendel_Projeto_limpo\\Views\\Home\\Index1.cshtml*",
+              "RelativeToolTip": "UC_10_Wendel_Projeto_limpo\\Views\\Home\\Index1.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-18T17:14:37.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\UC_10_Wendel_Projeto_limpo\\UC_10_Wendel_Projeto_limpo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UC_10_Wendel_Projeto_limpo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\UC_10_Wendel_Projeto_limpo\\UC_10_Wendel_Projeto_limpo\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "UC_10_Wendel_Projeto_limpo\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-18T16:54:31.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\UC_10_Wendel_Projeto_limpo\\UC_10_Wendel_Projeto_limpo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UC_10_Wendel_Projeto_limpo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\UC_10_Wendel_Projeto_limpo\\UC_10_Wendel_Projeto_limpo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UC_10_Wendel_Projeto_limpo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-18T16:51:21.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

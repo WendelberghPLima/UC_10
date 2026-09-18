@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i7rfIvYVyzc=",
+  "dgSpecHash": "wK2I7Mc82/g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\wendelbergh.plima\\source\\repos\\Uc_10_Wendel_Relacionamentos_Descricao_00004\\Uc_10_Wendel_Relacionamentos_Descricao_00004\\Uc_10_Wendel_Relacionamentos_Descricao_00004.csproj",
+  "projectFilePath": "C:\\Users\\wendelbergh.plima\\source\\repos\\UC10\\Uc_10_Wendel_Relacionamentos_Descricao_00004\\Uc_10_Wendel_Relacionamentos_Descricao_00004\\Uc_10_Wendel_Relacionamentos_Descricao_00004.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wendelbergh.plima\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\wendelbergh.plima\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

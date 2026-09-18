@@ -153,5 +153,15 @@ namespace Uc_10_Wendel_Relacionamentos_Descricao__00500.Controllers
         {
             return _context.Paciente.Any(e => e.PacienteId == id);
         }
+
+        public IActionResult Informacoes()
+        {
+            return View();
+        }
+
+        public IActionResult Orientacoes()
+        {
+            return View();
+        }
     }
 }

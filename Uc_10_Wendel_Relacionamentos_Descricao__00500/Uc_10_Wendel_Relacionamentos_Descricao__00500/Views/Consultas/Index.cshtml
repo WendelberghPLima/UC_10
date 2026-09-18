@@ -1,59 +1,152 @@
 ﻿@model IEnumerable<Uc_10_Wendel_Relacionamentos_Descricao__00500.Models.Consulta>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Consultas";
 }
 
-<h1>Consulta</h1>
+<div class="page">
 
-<p>
-    <a asp-action="Create">Criar Novo</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Data)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Observacao)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Paciente)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Medico)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.TipoConsulta)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Data)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Observacao)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Paciente.Nome)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Medico.CRM)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.TipoConsulta.Nome)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.ConsultaId">Editar</a> |
-                <a asp-action="Details" asp-route-id="@item.ConsultaId">Detalhes</a> |
-                <a asp-action="Delete" asp-route-id="@item.ConsultaId">Excluir</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+    <div class="page-header">
+        <div>
+            <span class="page-label">SISTEMA HOSPITALAR</span>
+
+            <h1>Gerenciamento de consultas</h1>
+
+            <p>
+                Consulte, cadastre e organize as consultas do sistema.
+            </p>
+        </div>
+
+        <a asp-action="Create" class="btn btn-primary">
+            + Cadastrar consulta
+        </a>
+    </div>
+
+
+    <!-- AÇÕES RÁPIDAS -->
+
+    <div class="quick-actions">
+
+        <a asp-action="Informacoes" class="action-card">
+            <div class="action-icon">ⓘ</div>
+
+            <div>
+                <strong>Informações</strong>
+                <span>Veja informações sobre as consultas.</span>
+            </div>
+        </a>
+
+
+        <a asp-action="Orientacoes" class="action-card">
+            <div class="action-icon">✓</div>
+
+            <div>
+                <strong>Orientações</strong>
+                <span>Confira orientações para o cadastro.</span>
+            </div>
+        </a>
+
+    </div>
+
+
+    <!-- TABELA -->
+
+    <div class="table-card">
+
+        <div class="table-header">
+
+            <div>
+                <h2>Consultas cadastradas</h2>
+
+                <p>
+                    Lista de consultas registradas no sistema.
+                </p>
+            </div>
+
+        </div>
+
+
+        <div class="table-responsive">
+
+            <table class="data-table">
+
+                <thead>
+
+                    <tr>
+
+                        <th>Data</th>
+
+                        <th>Observacao</th>
+
+                        <th>Paciente</th>
+
+                        <th>Medico</th>
+
+                        <th>Tipo de Consulta</th>
+
+                        <th>Ações</th>
+                    </tr>
+
+                </thead>
+
+
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+
+                            <td>
+
+                                <span class="badge badge-primary">
+                                    @item.Data.ToString("dd/MM/yyyy")
+                                </span>
+
+                            </td>
+
+
+                            <td>
+                                @item.Observacao
+                            </td>
+
+                            <td>
+                                @item.Paciente.Nome
+                            </td>
+
+                            <td>
+                                @item.Medico.Nome
+                            </td>
+
+                            <td>
+                                @item.TipoConsulta.Nome
+                            </td>
+
+                            <td class="table-actions">
+
+                                <a asp-action="Edit"
+                                   asp-route-id="@item.ConsultaId"
+                                   class="action-edit">
+                                    Editar
+                                </a>
+
+                                <a asp-action="Details"
+                                   asp-route-id="@item.ConsultaId"
+                                   class="action-details">
+                                    Detalhes
+                                </a>
+
+                                <a asp-action="Delete"
+                                   asp-route-id="@item.ConsultaId"
+                                   class="action-delete">
+                                    Excluir
+                                </a>
+
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
